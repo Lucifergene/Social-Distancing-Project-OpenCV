@@ -1,3 +1,4 @@
 # Social Distancing Project - 
-## Using Basic opencv library functions 
+
+Using Basic opencv library functions 
 
